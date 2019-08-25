@@ -1,0 +1,31 @@
+body {
+    background: rgba(135, 231, 135, 0.658);
+margin-left: 180px;
+margin-right: 180px;
+}
+
+header {
+    margin-top: 50px;
+}
+
+h1 {
+    Color: #87CEEB;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 20px;
+}
+
+.biblia {
+   
+    width: 300px
+}
+
+.Email{
+    width: 20px
+}
